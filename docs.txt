@@ -1,0 +1,7 @@
+Configuração e conexão com o Knex
+    -https://www.npmjs.com/package/knex
+
+-Primeira migration
+npx knex migrate:make crete_ongs
+-Segunda migration
+npx knex migrate:latest
